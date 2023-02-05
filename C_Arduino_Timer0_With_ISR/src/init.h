@@ -2,7 +2,7 @@
  * init.h
  *
  * Created: 24.11.2022. 10:06:54
- *  Author: user
+ *  Author: Aleksandar Bogdanovic
  */ 
 
 

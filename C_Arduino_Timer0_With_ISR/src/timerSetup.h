@@ -2,7 +2,7 @@
  * timerSetup.h
  *
  * Created: 24.11.2022. 10:11:49
- *  Author: user
+ *  Author: Aleksandar Bogdanovic
  */ 
 
 
